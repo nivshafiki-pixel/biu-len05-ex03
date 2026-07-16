@@ -1,0 +1,20 @@
+[
+  {
+    "email_id": "19f6c4d4b121ed34",
+    "subject": "פגישה",
+    "sender": "lotemn10 <lotemna10@gmail.com>",
+    "is_meeting_request": true,
+    "extracted_details": {
+      "date": "2026-07-17",
+      "time": "23:00",
+      "duration_minutes": 60,
+      "location": "קפיטריה",
+      "subject": "פגישה בנושא התרגיל"
+    },
+    "slot_available": true,
+    "event_created": null,
+    "dry_run_note": "Event NOT created (dry run - use --send to take real actions)",
+    "response_draft": "היי, שמח לאשר את הפגישה ביום שישי, 17.7, בשעה 23:00 בקפיטריה. נתראה אז!",
+    "email_sent": false
+  }
+]
